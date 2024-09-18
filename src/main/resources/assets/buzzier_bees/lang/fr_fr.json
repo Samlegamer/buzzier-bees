@@ -1,0 +1,188 @@
+{
+  "item.buzzier_bees.four_leaf_clover": "Trèfle à quatre feuilles",
+
+  "item.buzzier_bees.honey_wand": "Baguette de miel",
+  "item.buzzier_bees.sticky_honey_wand": "Baguette de miel collante",
+
+  "item.buzzier_bees.honey_apple": "Pomme au miel",
+  "item.buzzier_bees.honey_bread": "Pain mielleux",
+  "item.buzzier_bees.glazed_porkchop": "Côtelette de porc au miel glacée",
+
+  "item.buzzier_bees.silverfish_bottle": "Bouteille de poisson d'argent",
+  "item.buzzier_bees.endermite_bottle": "Bouteille d'Endermite",
+  "item.buzzier_bees.bee_bottle": "Bouteille d'Abeille",
+
+  "item.buzzier_bees.honeycomb_banner_pattern": "Motif de bannière",
+  "item.buzzier_bees.honeycomb_banner_pattern.desc": "Rayon de miel",
+
+  "item.buzzier_bees.grizzly_bear_spawn_egg": "Oeuf d'apparition de Grizzly",
+  "item.buzzier_bees.moobloom_spawn_egg": "Oeuf d'apparition de Moobloom",
+
+  "block.buzzier_bees.oak_beehive": "Ruche en bois de chêne",
+  "block.buzzier_bees.spruce_beehive": "Ruche en bois de sapin",
+  "block.buzzier_bees.birch_beehive": "Ruche en bois de bouleau",
+  "block.buzzier_bees.jungle_beehive": "Ruche en bois de d'acajou",
+  "block.buzzier_bees.acacia_beehive": "Ruche en bois d'acacia",
+  "block.buzzier_bees.dark_oak_beehive": "Ruche en bois de chêne noir",
+  "block.buzzier_bees.crimson_beehive": "Ruche en bois carmin",
+  "block.buzzier_bees.warped_beehive": "Ruche en bois biscornue",
+
+  "block.buzzier_bees.crystallized_honey_block": "Bloc de miel cristallisé",
+
+  "block.buzzier_bees.honey_lamp" : "Lampe de miel",
+  "block.buzzier_bees.honey_pot": "Pot de miel",
+
+  "block.buzzier_bees.honeycomb_bricks": "Bloc de rayon de miel taillée",
+  "block.buzzier_bees.honeycomb_brick_stairs": "Escalier en rayon de miel taillée",
+  "block.buzzier_bees.honeycomb_brick_slab": "Dalle en rayon de miel taillée",
+  "block.buzzier_bees.honeycomb_brick_wall": "Muret en rayon de miel taillée",
+  "block.buzzier_bees.honeycomb_brick_vertical_slab": "Dalle verticale en rayon de miel taillée",
+  "block.buzzier_bees.chiseled_honeycomb_bricks": "Bloc de rayon de miel sculptée",
+
+  "block.buzzier_bees.honeycomb_tiles": "Bloc de rayon de miel carrelée",
+  "block.buzzier_bees.honeycomb_tile_stairs": "Escalier en rayon de miel carrelée",
+  "block.buzzier_bees.honeycomb_tile_slab": "Dalle en rayon de miel carrelée",
+  "block.buzzier_bees.honeycomb_tile_wall": "Muret en rayon de miel carrelée",
+  "block.buzzier_bees.honeycomb_tile_vertical_slab": "Dalle verticale en rayon de miel carrelée",
+
+  "block.buzzier_bees.honeycomb_door": "Porte en rayon de miel",
+  "block.buzzier_bees.honeycomb_trapdoor": "Trappe en rayon de miel",
+
+  "block.buzzier_bees.pink_clover": "Trèfle rose",
+  "block.buzzier_bees.white_clover": "Trèfle blanc",
+  "block.buzzier_bees.buttercup": "Fleur de renoncule",
+
+  "block.buzzier_bees.potted_pink_clover": "Trèfle rose en pot",
+  "block.buzzier_bees.potted_white_clover": "Trèfle blanc en pot",
+  "block.buzzier_bees.potted_buttercup": "Fleur de renoncule en pot",
+
+  "block.buzzier_bees.candle": "Bougie",
+  "block.buzzier_bees.soul_candle": "Bougie des âmes",
+  "block.buzzier_bees.ender_candle": "Bougie de l'End",
+  "block.buzzier_bees.cursed_candle": "Bougie maudite",
+
+  "block.buzzier_bees.white_candle": "Bougie blanche",
+  "block.buzzier_bees.orange_candle": "Bougie orange",
+  "block.buzzier_bees.magenta_candle": "Bougie magenta",
+  "block.buzzier_bees.light_blue_candle": "Bougie bleu clair",
+  "block.buzzier_bees.yellow_candle": "Bougie jaune",
+  "block.buzzier_bees.lime_candle": "Bougie vert clair",
+  "block.buzzier_bees.pink_candle": "Bougie rose",
+  "block.buzzier_bees.gray_candle": "Bougie grise",
+  "block.buzzier_bees.light_gray_candle": "Bougie gris clair",
+  "block.buzzier_bees.cyan_candle": "Bougie cyan",
+  "block.buzzier_bees.purple_candle": "Bougie violette",
+  "block.buzzier_bees.blue_candle": "Bougie bleu",
+  "block.buzzier_bees.brown_candle": "Bougie marron",
+  "block.buzzier_bees.green_candle": "Bougie verte",
+  "block.buzzier_bees.red_candle": "Bougie rouge",
+  "block.buzzier_bees.black_candle": "Bougie noir",
+
+  "block.buzzier_bees.allium_scented_candle": "Bougie parfumée à l'allium",
+  "block.buzzier_bees.azure_bluet_scented_candle": "Bougie parfumée à l'houstonie bleue",
+  "block.buzzier_bees.blue_orchid_scented_candle": "Bougie parfumée à l'orchidée bleue",
+  "block.buzzier_bees.dandelion_scented_candle": "Bougie parfumée au pissenlit",
+  "block.buzzier_bees.cornflower_scented_candle": "Bougie parfumée au bleuet",
+  "block.buzzier_bees.lily_of_the_valley_scented_candle": "Bougie parfumée au muguet",
+  "block.buzzier_bees.oxeye_daisy_scented_candle": "Bougie parfumée à la marguerite",
+  "block.buzzier_bees.poppy_scented_candle": "Bougie parfumée au coquelicot",
+  "block.buzzier_bees.white_tulip_scented_candle": "Bougie parfumée au tulipes blanche",
+  "block.buzzier_bees.orange_tulip_scented_candle": "Bougie parfumée au tulipes orange",
+  "block.buzzier_bees.pink_tulip_scented_candle": "Bougie parfumée au tulipes rose",
+  "block.buzzier_bees.red_tulip_scented_candle": "Bougie parfumée au tulipes rouge",
+  "block.buzzier_bees.wither_rose_scented_candle": "Bougie parfumée au roses de wither",
+
+  "block.buzzier_bees.pink_clover_scented_candle": "Bougie parfumée au trèfle rose",
+  "block.buzzier_bees.white_clover_scented_candle": "Bougie parfumée au trèfle blanc",
+  "block.buzzier_bees.buttercup_scented_candle": "Bougie parfumée à la fleur de renoncule",
+
+  "block.buzzier_bees.cartwheel_scented_candle": "Bougie de lustre parfumée",
+  "block.buzzier_bees.bluebell_scented_candle": "Bougie en bol parfumée",
+  "block.buzzier_bees.violet_scented_candle": "Bougie parfumée à la violette",
+  "block.buzzier_bees.red_lotus_flower_scented_candle": "Bougie parfumée à la fleur de lotus rouge",
+  "block.buzzier_bees.white_lotus_flower_scented_candle": "Bougie parfumée à la fleur de lotus blanche",
+  "block.buzzier_bees.dianthus_scented_candle": "Bougie parfumée au dianthus",
+  "block.buzzier_bees.yellow_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus jaune",
+  "block.buzzier_bees.orange_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus orange",
+  "block.buzzier_bees.red_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus rouge",
+  "block.buzzier_bees.pink_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus rose",
+  "block.buzzier_bees.magenta_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus magenta",
+  "block.buzzier_bees.purple_hibiscus_scented_candle": "Bougie parfumée à l'hibiscus violet",
+
+  "block.buzzier_bees.warm_monkey_brush_scented_candle": "Bougie parfumée au singe chaleureux",
+  "block.buzzier_bees.hot_monkey_brush_scented_candle": "Bougie parfumée au singe brulant",
+  "block.buzzier_bees.scalding_monkey_brush_scented_candle": "Bougie parfumée au singe échaudé",
+  "block.buzzier_bees.water_hyacinth_scented_candle": "Bougie parfumée à la jacinthe d'eau",
+  "block.buzzier_bees.gilia_scented_candle": "Bougie parfumée au gilia",
+  "block.buzzier_bees.yucca_flower_scented_candle": "Bougie parfumée à la fleur de yucca",
+
+  "block.buzzier_bees.pink_searocket_scented_candle": "Bougie parfumée à la fleur de cakile rose",
+  "block.buzzier_bees.white_searocket_scented_candle": "Bougie parfumée à la fleur de cakile blanche",
+
+  "block.buzzier_bees.autumn_crocus_scented_candle": "Bougie parfumée au crocus d'automne",
+
+  "entity.buzzier_bees.grizzly_bear": "Grizzly",
+  "entity.buzzier_bees.moobloom": "Moobloom",
+
+  "entity.minecraft.villager.buzzier_bees.apiarist": "Apiculteur",
+
+  "effect.buzzier_bees.sunny": "Ensoleillé",
+
+  "item.minecraft.potion.effect.long_luck": "Potion de chance",
+  "item.minecraft.potion.effect.strong_luck": "Potion de chance",
+  "item.minecraft.potion.effect.unluck": "Potion de malchance",
+  "item.minecraft.potion.effect.long_unluck": "Potion de malchance",
+  "item.minecraft.potion.effect.strong_unluck": "Potion de malchance",
+
+  "item.minecraft.splash_potion.effect.long_luck": "Potion jetable de chance",
+  "item.minecraft.splash_potion.effect.strong_luck": "Potion jetable de chance",
+  "item.minecraft.splash_potion.effect.unluck": "Potion jetable de malchance",
+  "item.minecraft.splash_potion.effect.long_unluck": "Potion jetable de malchance",
+  "item.minecraft.splash_potion.effect.strong_unluck": "Potion jetable de malchance",
+
+  "item.minecraft.lingering_potion.effect.long_luck": "Potion persistante de chance",
+  "item.minecraft.lingering_potion.effect.strong_luck": "Potion persistante de chance",
+  "item.minecraft.lingering_potion.effect.unluck": "Potion persistante de malchance",
+  "item.minecraft.lingering_potion.effect.long_unluck": "Potion persistante de malchance",
+  "item.minecraft.lingering_potion.effect.strong_unluck": "Potion persistante de malchance",
+
+  "item.minecraft.tipped_arrow.effect.long_luck": "Flèche de chance",
+  "item.minecraft.tipped_arrow.effect.strong_luck": "Flèche de chance",
+  "item.minecraft.tipped_arrow.effect.unluck": "Flèche de malchance",
+  "item.minecraft.tipped_arrow.effect.long_unluck": "Flèche de malchance",
+  "item.minecraft.tipped_arrow.effect.strong_unluck": "Flèche de malchance",
+
+  "advancements.buzzier_bees.adventure.four_leaf_clover.title": "Trouvé sur 10 000",
+  "advancements.buzzier_bees.adventure.four_leaf_clover.description": "Trouver un trèfle à quatre feuilles",
+
+  "advancements.buzzier_bees.husbandry.use_honey_apple.title": "Une pomme par jour",
+  "advancements.buzzier_bees.husbandry.use_honey_apple.description": "Utiliser une pomme au miel pour soigner la lévitation",
+
+  "advancements.buzzier_bees.husbandry.use_honey_bread.title": "Bons présages",
+  "advancements.buzzier_bees.husbandry.use_honey_bread.description": "Utiliser un pain mielleux pour soigner un mauvais présage",
+
+  "advancements.buzzier_bees.husbandry.use_glazed_porkchop.title": "Genoux fragiles, bras mous",
+  "advancements.buzzier_bees.husbandry.use_glazed_porkchop.description": "Utiliser une côtelette de porc au miel glacée pour soigner la fatigue du minage",
+
+  "tooltip.buzzier_bees.is_baby": "Bébé",
+  "tooltip.buzzier_bees.has_nectar": "Pollinisé",
+  "tooltip.buzzier_bees.is_angry": "Énervé",
+  "tooltip.buzzier_bees.has_stung": "Sans dard",
+
+  "block.minecraft.banner.mca_honeycomb.black": "Rayon de miel noir",
+  "block.minecraft.banner.mca_honeycomb.red": "Rayon de miel rouge",
+  "block.minecraft.banner.mca_honeycomb.green": "Rayon de miel vert",
+  "block.minecraft.banner.mca_honeycomb.brown": "Rayon de miel marron",
+  "block.minecraft.banner.mca_honeycomb.blue": "Rayon de miel bleu",
+  "block.minecraft.banner.mca_honeycomb.purple": "Rayon de miel violet",
+  "block.minecraft.banner.mca_honeycomb.cyan": "Rayon de miel cyan",
+  "block.minecraft.banner.mca_honeycomb.light_gray": "Rayon de miel gris clair",
+  "block.minecraft.banner.mca_honeycomb.gray": "Rayon de miel gris",
+  "block.minecraft.banner.mca_honeycomb.pink": "Rayon de miel rose",
+  "block.minecraft.banner.mca_honeycomb.lime": "Rayon de miel vert clair",
+  "block.minecraft.banner.mca_honeycomb.yellow": "Rayon de miel jaune",
+  "block.minecraft.banner.mca_honeycomb.light_blue": "Rayon de miel bleu clair",
+  "block.minecraft.banner.mca_honeycomb.magenta": "Rayon de miel magenta",
+  "block.minecraft.banner.mca_honeycomb.orange": "Rayon de miel orange",
+  "block.minecraft.banner.mca_honeycomb.white": "Rayon de miel blanc"
+}
